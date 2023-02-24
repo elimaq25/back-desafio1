@@ -1,16 +1,16 @@
-class Products {
+// class Products {
 
-    constructor(title,description,thumbail, code, stock){
-        this.title = title;
-        this.description = description;
-        this.thumbail = thumbail;
-        this.code = code;
-        this.stock = stock
-    }
+//     constructor(title,description,thumbail, code, stock){
+//         this.title = title;
+//         this.description = description;
+//         this.thumbail = thumbail;
+//         this.code = code;
+//         this.stock = stock
+//     }
 
-    getProducts(){
-        return this;
-    }
-}
+//     getProducts(){
+//         return this;
+//     }
+// }
 
-export { Products };
+// export { Products };
